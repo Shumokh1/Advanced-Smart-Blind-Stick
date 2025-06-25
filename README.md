@@ -2,6 +2,13 @@
 
 ## Introduction
 An advanced smart walking stick designed to assist visually impaired users with navigation and obstacle detection using ultrasonic sensors, buzzer, vibration feedback, and a water sensor for slippery surfaces.
+## Hardware Setup
+
+### Arduino Virtual Connections  
+<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/arduino.jpeg" width="350" />
+
+### Physical Hardware  
+<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/hwDemo.png" width="350" />
 
 ## Hardware Components
 - Arduino Uno (ATmega328P microcontroller)  
@@ -21,11 +28,3 @@ An advanced smart walking stick designed to assist visually impaired users with 
 - Vibration Motor → Digital pin 12, GND  
 - Water Sensor → Analog input pin  
 - 9V Battery → VIN & GND  
-
-## Hardware Setup
-
-### Arduino Virtual Connections  
-<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/arduino.jpeg" width="350" />
-
-### Physical Hardware  
-<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/hwDemo.png" width="350" />
