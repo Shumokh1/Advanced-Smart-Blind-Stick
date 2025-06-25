@@ -1,4 +1,4 @@
-# Advanced Smart Walking
+# Advanced Smart Walking Stick
 
 ## Introduction
 An advanced smart walking stick designed to assist visually impaired users with navigation and obstacle detection using ultrasonic sensors, buzzer, vibration feedback, and a water sensor for slippery surfaces.
