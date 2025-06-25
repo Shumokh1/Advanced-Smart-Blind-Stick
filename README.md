@@ -25,7 +25,7 @@ An advanced smart walking stick designed to assist visually impaired users with 
 ## Hardware Setup
 
 ### Arduino Virtual Connections  
-<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/hwDemo.png" width="350" />
+<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/arduino.jpeg" width="350" />
 
 ### Physical Hardware  
-<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/arduino.jpeg" width="350" />
+<img src="https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/hwDemo.png" width="350" />
