@@ -1,9 +1,3 @@
-
- 
-![Arduino Image](https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/arduino.jpeg)
-
-![Hardware Demo](https://github.com/Shumokh1/Advanced-Smart-Blind-Stick/raw/main/hwDemo.png)
-
 # Advanced Smart Walking
 
 ## Introduction
